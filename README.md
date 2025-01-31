@@ -1,6 +1,6 @@
 <picture>
-  <source width="300" media="(prefers-color-scheme: dark)" srcset="./runes-dark.svg">
-  <img width="300" alt="Runes" src="./runes-light.svg">
+  <source height="50" media="(prefers-color-scheme: dark)" srcset="./runes-dark.svg">
+  <img height="50" alt="Runes" src="./runes-light.svg">
 </picture>
 
 ```rb
