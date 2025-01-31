@@ -1,3 +1,8 @@
+<picture>
+  <source width="300" media="(prefers-color-scheme: dark)" srcset="./runes-dark.svg">
+  <img width="300" alt="Runes" src="./runes-light.svg">
+</picture>
+
 ```rb
 # 👋.rb
 email = "earlopain@#{'ol-ld'.chars.map(&:succ).join}"
